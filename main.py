@@ -1,4 +1,4 @@
-from WindowClassV2 import *
+from WindowClass import *
 
 def main():
     app = QApplication(sys.argv)
